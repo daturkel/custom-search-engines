@@ -2,6 +2,8 @@
 
 #### By Dan Turkel
 
+A lot of people don't seem to realize the utility of the Google Chrome Custom Search Engine feature. Personally, I use it all the time every day. Want to search Wikipedia for Pokemon? Without lifting my fingers off the keyboard, I enter <kbd>⌘</kbd>+<kbd>L</kbd>, then `w Pokemon` and <kbd>Enter</kbd> and bang, I'm there!
+
 ### The Search Engines
 
 Name | Keyword | Url
