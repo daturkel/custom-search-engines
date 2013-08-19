@@ -1,8 +1,8 @@
-# Google Chrome Custom Search Engines
+## Google Chrome Custom Search Engines
 
-### By Dan Turkel
+#### By Dan Turkel
 
-## The Search Engines
+### The Search Engines
 
 Name | Keyword | Url
 :--- | :------ | :--
@@ -11,8 +11,8 @@ Google Image Search | gi | `https://www.google.com/search?tbm=isch&q=%s`
 Amazon | a | `http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=%s&x=0&y=0`
 Discogs | d | `http://www.discogs.com/search?q=%s&type=all`
 Ebay | e | `http://www.ebay.com/sch/i.html?_from=R40&_trksid=p5197.m570.l1313&_nkw=%s&_sacat=See-All-Categories`
-Translate English to Spanish | es | `http://translate.google.com/#en\|es\|%s%0A`
-Translate Spanish to English | se | `http://translate.google.com/#es\|en\|%s%0A`
+Translate English to Spanish | es | <code>http://translate.google.com/#en|es|%s%0A</code>
+Translate Spanish to English | se | <code>http://translate.google.com/#es|en|%s%0A</code>
 Goodreads | gr | `http://www.goodreads.com/search/search?search_type=books&search[query]=%s`
 Hacker News | hn | `https://www.hnsearch.com/search#request/submissions&q=%s&start=0`
 IMDB | i | `http://www.imdb.com/find?s=all&q=%s`
@@ -26,7 +26,7 @@ Wiktionary | wk | `http://en.wiktionary.org/wiki/Special:Search?search=%s&go=Go`
 Wolfram Alpha | wa | `http://www.wolframalpha.com/input/?i=%s`
 Youtube | y | `http://www.youtube.com/results?search_query=%s&page={startPage?}&utm_source=opensearch`
 
-## How to Apply Them
+### How to Apply Them
 
 1. Open Chrome
 2. Right click or control click the address bar
@@ -34,7 +34,7 @@ Youtube | y | `http://www.youtube.com/results?search_query=%s&page={startPage?}&
 4. Scroll through to see if the search you want to add is already in there—you might just need to change the keyword
 5. If it's not there, scroll to the bottom where you can add a new search engine just as you see it here
 
-## How to Use Them
+### How to Use Them
 1. Go to your address bar by either  
     a) clicking it  
     b) control-L on a PC  
