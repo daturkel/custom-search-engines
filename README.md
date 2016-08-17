@@ -24,6 +24,7 @@ Last.fm | l | `http://www.last.fm/search?q=%s`
 Last.fm Artist | la | `http://www.last.fm/music/%s`
 Last.fm Tag | lt | `http://www.last.fm/tag/%s`
 Song Meanings | sm | `http://www.songmeanings.net/query/?q=%s&type=artists&page=1&start=0&mm=1&pp=20&b=Go`
+Stack Overflow | st | `http://stackoverflow.com/search?q=%s`
 Urban Dictionary | u | `http://www.urbandictionary.com/define.php?term=%s`
 Wikipedia | w | `http://en.wikipedia.org/w/index.php?title=Special:Search&search=%s`
 Wiktionary | wk | `http://en.wiktionary.org/wiki/Special:Search?search=%s&go=Go`
