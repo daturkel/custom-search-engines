@@ -8,9 +8,11 @@ Ebay,e,http://www.ebay.com/sch/i.html?_from=R40&_trksid=p5197.m570.l1313&_nkw=%s
 Translate English to Spanish,es,http://translate.google.com/#en%7Ces%7C%s%0A
 Translate Spanish to English,se,http://translate.google.com/#es%7Cen%7C%s%0A
 Github,gh,https://github.com/search?q=%s&ref=opensearch
+GitHub Issues, gi, https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+label%3A"help+wanted"++%s
 Goodreads,gr,http://www.goodreads.com/search/search?search_type=books&search[query]=%s
 Hacker News,hn,https://www.hnsearch.com/search#request/submissions&q=%s&start=0
 IMDB,i,http://www.imdb.com/find?s=all&q=%s
+Jira, j, http://<subdomain>.atlassian.net/browse/%s
 Last.fm,l,http://www.last.fm/search?q=%s
 Last.fm Artist,la,http://www.last.fm/music/%s
 Last.fm Tag,lt,http://www.last.fm/tag/%s
